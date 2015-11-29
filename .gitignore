@@ -1,0 +1,8 @@
+.cproject
+.project
+CMakeCache.txt
+CMakeFiles
+Makefile
+cmake_install.cmake
+bicgstab_cuda
+matrix.inp
